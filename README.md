@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# myGAN
-=======
 <p align="center"><img width="40%" src="logo/pytorch_logo_2018.svg" /></p>
 
 --------------------------------------------------------------------------------
@@ -58,4 +55,3 @@ $ python main.py
 
 ## Author
 Yunjey Choi/ [@yunjey](https://github.com/yunjey)
->>>>>>> 56bba936197f46968aa2cc04c8096055de7f710c
